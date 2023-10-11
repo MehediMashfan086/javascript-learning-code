@@ -10,6 +10,11 @@ accountEmail = "mh@gmail.com"
 accountPassword = "456"
 accountCity = "Rajshahi"
 
+/* 
+    Do not use var keywords,
+    because of issues of block scope and functional scope.
+*/
+
 // console.log(accountId);
 // console.log(accountEmail);
 // console.log(accountPassword);
